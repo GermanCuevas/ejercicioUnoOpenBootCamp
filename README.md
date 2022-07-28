@@ -1,2 +1,2 @@
 # ejercicioUnoOpenBootCamp
-# DEPLY : https://germancuevas.github.io/ejercicioUnoOpenBootCamp/
+# DEPLOY : https://germancuevas.github.io/ejercicioUnoOpenBootCamp/
